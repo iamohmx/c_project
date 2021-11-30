@@ -10,7 +10,7 @@ int main()
     printf("Enter number of lines of each section: ");
     scanf("%d", &n);
 
-    printf("\n*** CHRISTMAS TREE ***\n\n");
+    printf("\n*** CHRISTMAS TREE EIEI ***\n\n");
     triangle(n);
     triangle(n);
     pole(n);
